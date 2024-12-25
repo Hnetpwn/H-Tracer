@@ -15,7 +15,7 @@
 - [x] View on map
 - [x] Perform port scan
 - [x] Perfrom Network Diagnostics
-- [] Check VPN
+- [ ] Check VPN
 
 ## Support
 For general support or if you encounter any issues with this tool, feel free to reach out to me via email at [netpwnn@gmail.com](mailto:netpwnn@gmail.com). Alternatively, you can contact me directly on Discord—my username is ** netpwnn**.
