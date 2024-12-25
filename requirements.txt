@@ -1,0 +1,9 @@
+requests
+geopy
+colorama
+beautifulsoup4
+python-whois
+shodan
+ipwhois
+pyfiglet
+rich
