@@ -4,7 +4,7 @@
 ## How to install & run H-Tracer ❓
 - apt update
 - apt install git -y
-- git clone https://github.com/Hnetpwn/H-Tracer.git
+- git clone https://github.com/netpwnn/H-Tracer.git
 - cd H-Tracer
 - pip install -r requirements.txt
 - python htrace.py
